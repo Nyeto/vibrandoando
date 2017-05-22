@@ -7,7 +7,8 @@ $(document).ready(function(e){
 	});//Tap del beep
     $('#vibrar').tap(function(){
 		navigator.notification.vibrate(1000);
-	});//Tap del beep	
+	});//Tap del vibrador
+		
 	
 	},false); //deviceready
 });//ready

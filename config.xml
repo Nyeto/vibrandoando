@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Vibracel</name>
+    <name>Vibrapea</name>
 
     <description>
         Ejemplo para utilizar Plugins en moviles
@@ -20,7 +20,5 @@
     </author>
 	
 
-		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
-<gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
-
+		
 </widget>
