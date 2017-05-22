@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Vibrapea</name>
+    <name>Vibrandoando</name>
 
     <description>
         Ejemplo para utilizar Plugins en moviles
@@ -18,8 +18,8 @@
     <author href="https://build.phonegap.com" email="nyeto@hotmail.com">
         David Nieto
     </author>
-	<plugin name="cordova-plugin-vibration" spec="1.2.0" source="pgb" />
-<plugin name="org.apache.cordova.dialogs" version="0.2.6" />
+	<gap:plugin name="cordova-plugin-vibration" spec="~2.1.5" />
+<gap:plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
 	
 
 		
