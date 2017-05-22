@@ -18,6 +18,8 @@
     <author href="https://build.phonegap.com" email="nyeto@hotmail.com">
         David Nieto
     </author>
+	<plugin name="cordova-plugin-vibration" spec="1.2.0" source="pgb" />
+<plugin name="org.apache.cordova.dialogs" version="0.2.6" />
 	
 
 		
